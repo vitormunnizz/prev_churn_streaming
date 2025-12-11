@@ -52,6 +52,18 @@ Após o treinamento e a avaliação dos modelos, os principais resultados obtido
 
 Esses resultados destacam as características que impactam o churn e ajudam a identificar os usuários com maior probabilidade de cancelar a assinatura, permitindo à empresa desenvolver estratégias para aumentar a retenção.
 
-## Contato
+## Autor
 
-Se você tiver dúvidas ou sugestões, entre em contato por [vitor13muniz09@gmail.com](mailto:vitor13muniz09@gmail.com).
+**Vitor Hugo Muniz de Sousa Santos**
+
+Engenheiro de Computação | Cientista de Dados
+
+[vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+[www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+**Se este projeto te ajudou, deixe uma estrela no repositório!**
