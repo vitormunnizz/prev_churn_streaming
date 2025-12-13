@@ -1,5 +1,3 @@
-# Previsão de Churn em Plataforma de Streaming
-
 ## Descrição do Projeto
 
 Este projeto aborda o desafio de **Previsão de Churn em Plataforma de Streaming**, cujo objetivo é desenvolver um modelo de classificação para prever quais usuários têm alta chance de cancelar a assinatura em uma plataforma de streaming. O problema de churn é crítico para empresas que desejam reduzir a perda de clientes, e esta análise busca identificar o perfil de usuários que tendem a deixar o serviço para que ações preventivas possam ser tomadas.
